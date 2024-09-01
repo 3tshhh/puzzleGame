@@ -1,2 +1,2 @@
 # puzzleGame
-Puzzle game project using Java 
+Puzzle game project using unity
